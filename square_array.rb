@@ -1,5 +1,5 @@
 def square_array(array)
   squared = []
-  array.each {| num | squared << num ** 2}
+  array.each {| num | squared << num * num}
   squared
 end
