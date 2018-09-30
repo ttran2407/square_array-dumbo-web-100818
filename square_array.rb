@@ -1,6 +1,6 @@
 def square_array(array)
   squared = []
-  array.each do {}
+  array.each do {| num | }
     
   end
 end
